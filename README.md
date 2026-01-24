@@ -13,3 +13,5 @@ The repositories here reflect that focus—using code and notebooks to explore:
 - classification and taxonomy design
 - visibility and knowledge gaps
 - structure, retrieval, and reuse in AI-enabled systems
+
+These projects are exploratory and evolving, reflecting how knowledge systems behave in real organizational contexts.
