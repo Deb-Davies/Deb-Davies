@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi — I’m Deborah 👋
 
-<!--
-**Deb-Davies/Deb-Davies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design **AI knowledge ecosystems** that make complex systems visible, governable, and usable.
 
-Here are some ideas to get you started:
+My work sits at the intersection of:
+- Knowledge Management
+- Applied Mathematics & Statistical Thinking
+- AI Enablement and Adoption
+- Knowledge Representation & Structure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The repositories here reflect that focus—using code and notebooks to explore:
+- missingness as signal rather than noise
+- classification and taxonomy design
+- visibility and knowledge gaps
+- structure, retrieval, and reuse in AI-enabled systems
