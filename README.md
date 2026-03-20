@@ -1,17 +1,21 @@
 ## Hi — I’m Deborah 👋
 
-I design **AI knowledge ecosystems** that make complex systems visible, governable, and usable.
+I am a Forensic Data Architect and the creator of the SERM (Structural Entity Relationship Modeling) Topology. I architect AI Knowledge Ecosystems designed to resolve Identity Collapse in high-entropy, adversarial environments. My work centers on identifying the Kinetic Anchor—the invariant behavioral DNA that maintains relational truth as entities evolve through non-linear life states.
 
 My work sits at the intersection of:
-- Knowledge Management
-- Applied Mathematics & Statistical Thinking
-- AI Enablement and Adoption
-- Knowledge Representation & Structure
 
-The repositories here reflect that focus—using code and notebooks to explore:
-- missingness as signal rather than noise
-- classification and taxonomy design
-- visibility and knowledge gaps
-- structure, retrieval, and reuse in AI-enabled systems
+    Graph Intelligence: 0-1 Knowledge Graph Architecture, GNNs, and GraphRAG. 
 
-These projects are exploratory and evolving, reflecting how knowledge systems behave in real organizational contexts.
+    Identity Engineering: Latent State Discovery and Role Entropy Analysis. 
+
+    Epistemic Governance: Designing workflows that bridge human intuition and machine intelligence. 
+
+The repositories here explore:
+
+    SERM Topology Implementation: Achieving 0.99 feature congruency in identity resolution. 
+
+    Missingness as Active Signal: Decoding "Role Entropy" within data gaps. 
+
+    Multi-hop Relational Reasoning: Utilizing GraphRAG to pierce through institutional noise.
+
+I thrive in the 'uncomfortable excitement' of building 0-1 architectures that make the invisible visible.
