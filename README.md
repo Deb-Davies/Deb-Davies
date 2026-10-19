@@ -1,6 +1,6 @@
 ## Hi — I’m Deborah 👋
 
-I work at the intersection of data science, artificial intelligence, and knowledge systems, applying mathematical reasoning, systems thinking, and research-driven analysis to complex real-world problems. My work includes the development of the SERM (Structural Entity Relationship Modeling) Topology, a framework for exploring identity dynamics, hidden structures, and knowledge gaps across complex ecosystems.
+I work at the intersection of data science, artificial intelligence, and knowledge systems, applying mathematical reasoning, systems thinking, and research-driven analysis to complex real-world problems. My work includes the development of the SERM (Structure Entity Relationship Meaning) Topology, an analytical technique for exploring identity dynamics, hidden structures, and knowledge gaps across complex ecosystems.
 
 My work sits at the intersection of:
 
